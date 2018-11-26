@@ -1,6 +1,6 @@
 ## Machine Learning Models
 
-This is my repository of code samples regarding various Machine Learning Algorithms. Those are namely **Linear Regression,Logistic Regression,K-Nearest Neighbour,Naive Bayes**. Links to the actual Jupyter Notebooks are given below. 
+This is my code repository for various Machine Learning Algorithms. Those are namely **Linear Regression,Logistic Regression,K-Nearest Neighbour,Naive Bayes**. Links to actual Jupyter Notebooks are given below. 
 - [Logistic Regression](https://github.com/dipmukherg/MachineLearning/blob/master/Logistic%20_Regression-Sentiment_Analysis(Amazon_Food_Review_).ipynb)
 - [Naive Bayes](https://github.com/dipmukherg/MachineLearning/blob/master/Naive_Bayes-Sentiment_Analysis(Amazon_Food_Review).ipynb)
 - [K Nearest Neighbour](https://github.com/dipmukherg/MachineLearning/blob/master/KNN-Sentiment_Analysis(Amazon_Food_Review_).ipynb)
