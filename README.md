@@ -6,6 +6,8 @@ This is my code repository for various Machine Learning Algorithms. Those are na
 - [K Nearest Neighbour](https://github.com/dipmukherg/MachineLearning/blob/master/KNN-Sentiment_Analysis(Amazon_Food_Review_).ipynb)
 - [Linear Regression(SGD)](https://github.com/dipmukherg/MachineLearning/blob/master/Mini_Batch_SGD_Implementation.ipynb)
 - [EDA](https://github.com/dipmukherg/MachineLearning/blob/master/EDA_(Haberman_Cancer_Survival).ipynb)
+- [Decision Tree](https://github.com/dipmukherg/MachineLearning/blob/master/Decision_Tree.ipynb)
+- [Preprocessing](https://github.com/dipmukherg/MachineLearning/blob/master/Preprocessing.ipynb)
 
 
 >- **Mini Batch SGD** has been implemented using **python NumPy,Pandas** libraries and tested on Boston House Prices dataset. Dataset can be found [here](https://www.kaggle.com/schirmerchad/bostonhoustingmlnd)
